@@ -2,7 +2,7 @@ package Day_8;
 
 import java.util.Scanner;
 
-public class d8question_leetcode {
+public class d8question1_leetcode {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();          // size of the input array
